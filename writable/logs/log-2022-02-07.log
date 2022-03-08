@@ -1,0 +1,167 @@
+CRITICAL - 2022-02-07 20:20:16 --> Undefined property: App\controllers\UserController::$users
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 23)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-07 20:21:13 --> Undefined property: App\controllers\UserController::$users
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 23)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-07 20:21:25 --> Undefined property: App\controllers\UserController::$user
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 23)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-07 20:21:45 --> Undefined property: App\controllers\UserController::$users
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 23)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-07 20:24:19 --> Undefined property: App\controllers\UserController::$user
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 23)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-07 20:24:30 --> Undefined property: App\controllers\UserController::$data
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 23)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-07 20:26:12 --> Undefined property: App\controllers\UserController::$users
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 23)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-07 20:26:49 --> Undefined property: App\controllers\UserController::$users
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 23)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-07 20:26:52 --> Undefined property: App\controllers\UserController::$users
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 23)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-07 20:37:27 --> Undefined property: App\controllers\UserController::$user
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 23)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-07 20:42:44 --> Undefined property: App\controllers\UserController::$users
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 23)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-07 20:42:46 --> Undefined property: App\controllers\UserController::$users
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 23)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-07 20:43:03 --> Undefined property: App\controllers\UserController::$users
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 23)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-07 20:44:07 --> Undefined property: App\controllers\UserController::$users
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 23)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-07 20:44:52 --> Undefined property: App\controllers\UserController::$users
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 23)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-07 20:46:20 --> Undefined property: App\controllers\UserController::$users
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 23)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-07 20:47:02 --> Undefined array key "user_id"
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Views\userlist.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 30)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\app_caffe_desipa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\app_caffe_desipa\system\Common.php(1089): CodeIgniter\View\View->render('UserList', Array, true)
+#4 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(24): view('UserList', Array)
+#5 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#6 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#7 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-07 20:47:25 --> Undefined array key "user_id"
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Views\userlist.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 96)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\app_caffe_desipa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\app_caffe_desipa\system\Common.php(1089): CodeIgniter\View\View->render('UserList', Array, true)
+#4 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(24): view('UserList', Array)
+#5 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#6 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#7 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-07 22:01:01 --> Undefined variable $dmenu
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Views\menulist.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 19)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\app_caffe_desipa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\app_caffe_desipa\system\Common.php(1089): CodeIgniter\View\View->render('MenuList', Array, true)
+#4 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\MenuController.php(17): view('MenuList', Array)
+#5 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\MenuController->tampil()
+#6 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\MenuController))
+#7 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-07 22:01:12 --> Undefined variable $dmenu
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Views\menulist.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 19)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\app_caffe_desipa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\app_caffe_desipa\system\Common.php(1089): CodeIgniter\View\View->render('MenuList', Array, true)
+#4 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\MenuController.php(17): view('MenuList', Array)
+#5 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\MenuController->tampil()
+#6 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\MenuController))
+#7 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-07 22:02:59 --> Undefined variable $dpesanan
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Views\pesananlist.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 18)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\app_caffe_desipa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\app_caffe_desipa\system\Common.php(1089): CodeIgniter\View\View->render('PesananList', Array, true)
+#4 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\PesananController.php(17): view('PesananList', Array)
+#5 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\PesananController->tampil()
+#6 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#7 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

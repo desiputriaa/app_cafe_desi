@@ -1,0 +1,81 @@
+CRITICAL - 2022-03-03 20:57:05 --> Undefined array key "total_harga"
+#0 E:\xampp\htdocs\app_cafe_desi\app\Views\pesananlist.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 89)
+#1 E:\xampp\htdocs\app_cafe_desi\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\app_cafe_desi\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\app_cafe_desi\system\Common.php(1089): CodeIgniter\View\View->render('pesananlist', Array, true)
+#4 E:\xampp\htdocs\app_cafe_desi\app\Controllers\PesananController.php(33): view('pesananlist', Array)
+#5 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(825): App\controllers\PesananController->index()
+#6 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#7 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_cafe_desi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-03 22:34:49 --> Undefined variable $tharga
+#0 E:\xampp\htdocs\app_cafe_desi\app\Controllers\PesananController.php(99): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 99)
+#1 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(825): App\controllers\PesananController->simpan()
+#2 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#3 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_cafe_desi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-03 22:37:01 --> Undefined property: App\controllers\PesananController::$detail
+#0 E:\xampp\htdocs\app_cafe_desi\app\Controllers\PesananController.php(102): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 102)
+#1 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(825): App\controllers\PesananController->simpan()
+#2 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#3 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_cafe_desi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-03 22:39:36 --> Undefined property: App\controllers\PesananController::$datadetail
+#0 E:\xampp\htdocs\app_cafe_desi\app\Controllers\PesananController.php(102): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 102)
+#1 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(825): App\controllers\PesananController->simpan()
+#2 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#3 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_cafe_desi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-03 22:47:52 --> Undefined property: App\controllers\PesananController::$detail
+#0 E:\xampp\htdocs\app_cafe_desi\app\Controllers\PesananController.php(102): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 102)
+#1 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(825): App\controllers\PesananController->simpan()
+#2 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#3 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_cafe_desi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-03 22:50:07 --> Undefined property: App\controllers\PesananController::$detail
+#0 E:\xampp\htdocs\app_cafe_desi\app\Controllers\PesananController.php(102): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 102)
+#1 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(825): App\controllers\PesananController->simpan()
+#2 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#3 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_cafe_desi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-03 22:51:36 --> Undefined property: App\controllers\PesananController::$detail
+#0 E:\xampp\htdocs\app_cafe_desi\app\Controllers\PesananController.php(103): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 103)
+#1 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(825): App\controllers\PesananController->simpan()
+#2 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#3 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_cafe_desi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-03 23:56:21 --> Undefined property: App\controllers\PesananController::$detail
+#0 E:\xampp\htdocs\app_cafe_desi\app\Controllers\PesananController.php(103): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 103)
+#1 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(825): App\controllers\PesananController->simpan()
+#2 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#3 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_cafe_desi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-03 23:57:40 --> Class "APP\Models\DetailPesananModel" not found
+#0 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(802): App\controllers\PesananController->__construct()
+#1 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_cafe_desi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-03-03 23:59:03 --> Table 'db_cafe_desi.tb_detail_pesanan' doesn't exist
+CRITICAL - 2022-03-03 23:59:03 --> Table 'db_cafe_desi.tb_detail_pesanan' doesn't exist
+#0 E:\xampp\htdocs\app_cafe_desi\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 E:\xampp\htdocs\app_cafe_desi\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 E:\xampp\htdocs\app_cafe_desi\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 E:\xampp\htdocs\app_cafe_desi\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 E:\xampp\htdocs\app_cafe_desi\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 E:\xampp\htdocs\app_cafe_desi\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 E:\xampp\htdocs\app_cafe_desi\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 E:\xampp\htdocs\app_cafe_desi\app\Controllers\PesananController.php(104): CodeIgniter\Model->insert(Array)
+#8 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(825): App\controllers\PesananController->simpan()
+#9 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#10 E:\xampp\htdocs\app_cafe_desi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 E:\xampp\htdocs\app_cafe_desi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}

@@ -1,0 +1,238 @@
+CRITICAL - 2022-01-28 04:59:39 --> Class "App\Models\PesananModel" not found
+#0 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\PesananController->tampil()
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-28 05:01:15 --> Class "App\Models\PesananModel" not found
+#0 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\PesananController->tampil()
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-28 05:11:35 --> Undefined variable $pesanan
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\PesananController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 13)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\PesananController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-28 05:12:27 --> Undefined variable $Pesanan
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\PesananController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 13)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\PesananController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-28 05:12:51 --> Undefined variable $Pesanan
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\PesananController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 13)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\PesananController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-01-28 05:13:28 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2022-01-28 05:13:28 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+#0 E:\xampp\htdocs\app_caffe_desipa\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\xampp\htdocs\app_caffe_desipa\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\xampp\htdocs\app_caffe_desipa\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\xampp\htdocs\app_caffe_desipa\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\PesananController.php(13): CodeIgniter\BaseModel->findAll()
+#5 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\PesananController->tampil()
+#6 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#7 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-28 05:16:02 --> Undefined variable $Pesanan
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\PesananController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 13)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\PesananController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-28 05:16:25 --> Undefined variable $Pesanan
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\PesananController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 13)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\PesananController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-01-28 05:16:45 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2022-01-28 05:16:45 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+#0 E:\xampp\htdocs\app_caffe_desipa\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\xampp\htdocs\app_caffe_desipa\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\xampp\htdocs\app_caffe_desipa\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\xampp\htdocs\app_caffe_desipa\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\PesananController.php(13): CodeIgniter\BaseModel->findAll()
+#5 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\PesananController->tampil()
+#6 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#7 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-28 05:17:59 --> Undefined variable $Pesanan
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\PesananController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 13)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\PesananController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-28 05:19:50 --> Undefined variable $Pesanan
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\PesananController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 13)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\PesananController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-01-28 05:20:20 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2022-01-28 05:20:20 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+#0 E:\xampp\htdocs\app_caffe_desipa\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\xampp\htdocs\app_caffe_desipa\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\xampp\htdocs\app_caffe_desipa\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\xampp\htdocs\app_caffe_desipa\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\PesananController.php(13): CodeIgniter\BaseModel->findAll()
+#5 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\PesananController->tampil()
+#6 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#7 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-28 05:20:43 --> Undefined variable $dPesanan
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\PesananController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 13)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\PesananController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-28 05:21:19 --> Undefined variable $Pesanan
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\PesananController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 13)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\PesananController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-28 05:21:51 --> Undefined variable $Pesanan
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\PesananController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 13)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\PesananController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-28 05:22:11 --> Class "App\Models\MenuModel" not found
+#0 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\MenuController->tampil()
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\MenuController))
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-28 05:22:44 --> Class "App\Models\MenuModel" not found
+#0 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\MenuController->tampil()
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\MenuController))
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-01-28 05:22:54 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2022-01-28 05:22:54 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+#0 E:\xampp\htdocs\app_caffe_desipa\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\xampp\htdocs\app_caffe_desipa\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\xampp\htdocs\app_caffe_desipa\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\xampp\htdocs\app_caffe_desipa\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(13): CodeIgniter\BaseModel->findAll()
+#5 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#6 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#7 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-01-28 05:23:06 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2022-01-28 05:23:06 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+#0 E:\xampp\htdocs\app_caffe_desipa\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\xampp\htdocs\app_caffe_desipa\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\xampp\htdocs\app_caffe_desipa\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\xampp\htdocs\app_caffe_desipa\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(13): CodeIgniter\BaseModel->findAll()
+#5 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#6 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#7 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-01-28 05:28:48 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2022-01-28 05:28:48 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+#0 E:\xampp\htdocs\app_caffe_desipa\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\xampp\htdocs\app_caffe_desipa\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\xampp\htdocs\app_caffe_desipa\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\xampp\htdocs\app_caffe_desipa\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\MenuController.php(13): CodeIgniter\BaseModel->findAll()
+#5 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\MenuController->tampil()
+#6 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\MenuController))
+#7 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-01-28 05:28:53 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2022-01-28 05:28:53 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+#0 E:\xampp\htdocs\app_caffe_desipa\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\xampp\htdocs\app_caffe_desipa\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\xampp\htdocs\app_caffe_desipa\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\xampp\htdocs\app_caffe_desipa\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\MenuController.php(13): CodeIgniter\BaseModel->findAll()
+#5 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\MenuController->tampil()
+#6 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\MenuController))
+#7 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-01-28 05:30:28 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2022-01-28 05:30:28 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+#0 E:\xampp\htdocs\app_caffe_desipa\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\xampp\htdocs\app_caffe_desipa\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\xampp\htdocs\app_caffe_desipa\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\xampp\htdocs\app_caffe_desipa\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\MenuController.php(13): CodeIgniter\BaseModel->findAll()
+#5 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\MenuController->tampil()
+#6 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\MenuController))
+#7 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-28 05:30:42 --> Undefined variable $Pesanan
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\PesananController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 13)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\PesananController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-01-28 05:32:04 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2022-01-28 05:32:04 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+#0 E:\xampp\htdocs\app_caffe_desipa\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\xampp\htdocs\app_caffe_desipa\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\xampp\htdocs\app_caffe_desipa\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\xampp\htdocs\app_caffe_desipa\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\MenuController.php(13): CodeIgniter\BaseModel->findAll()
+#5 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\MenuController->tampil()
+#6 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\MenuController))
+#7 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-01-28 05:32:22 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2022-01-28 05:32:22 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+#0 E:\xampp\htdocs\app_caffe_desipa\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\xampp\htdocs\app_caffe_desipa\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\xampp\htdocs\app_caffe_desipa\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\xampp\htdocs\app_caffe_desipa\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(13): CodeIgniter\BaseModel->findAll()
+#5 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#6 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#7 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-28 05:32:36 --> Undefined variable $Pesanan
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\PesananController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 13)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\PesananController->tampil()
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\PesananController))
+#3 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

@@ -1,0 +1,55 @@
+CRITICAL - 2022-02-08 06:38:59 --> Undefined array key "level"
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Views\userlist.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 34)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\app_caffe_desipa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\app_caffe_desipa\system\Common.php(1089): CodeIgniter\View\View->render('userlist', Array, true)
+#4 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(24): view('userlist', Array)
+#5 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#6 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#7 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-08 06:39:12 --> Undefined array key "level"
+#0 E:\xampp\htdocs\app_caffe_desipa\app\Views\userlist.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 34)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\app_caffe_desipa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\app_caffe_desipa\system\Common.php(1089): CodeIgniter\View\View->render('userlist', Array, true)
+#4 E:\xampp\htdocs\app_caffe_desipa\app\Controllers\UserController.php(24): view('userlist', Array)
+#5 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->tampil()
+#6 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#7 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-08 06:40:03 --> Object of class App\controllers\UserController could not be converted to string
+#0 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->edit('1')
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 06:40:37 --> Object of class App\controllers\UserController could not be converted to string
+#0 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->edit('1')
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 06:40:56 --> Object of class App\controllers\UserController could not be converted to string
+#0 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->edit('1')
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 06:41:17 --> Object of class App\controllers\UserController could not be converted to string
+#0 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(825): App\controllers\UserController->edit('1')
+#1 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\UserController))
+#2 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 18:06:24 --> Undefined variable $totalTime
+#0 E:\xampp\htdocs\app_caffe_desipa\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 40)
+#1 E:\xampp\htdocs\app_caffe_desipa\system\Debug\Toolbar.php(501): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\app_caffe_desipa\system\Debug\Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 E:\xampp\htdocs\app_caffe_desipa\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 E:\xampp\htdocs\app_caffe_desipa\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 E:\xampp\htdocs\app_caffe_desipa\system\CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#6 E:\xampp\htdocs\app_caffe_desipa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
